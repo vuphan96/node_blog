@@ -1,0 +1,32 @@
+{
+    "name": "node_blog",
+    "version": "1.0.0",
+    "description": "create_blog_page",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vuphan96/node_blog.git"
+    },
+    "keywords": [
+        "Vuph",
+        "Hoangvu",
+        "Vuphan",
+        "Blog"
+    ],
+    "author": "Vuph",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vuphan96/node_blog/issues"
+    },
+    "homepage": "https://github.com/vuphan96/node_blog#readme",
+    "dependencies": {
+        "express": "^4.19.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}
